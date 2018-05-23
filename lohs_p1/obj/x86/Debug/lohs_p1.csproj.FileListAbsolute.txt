@@ -1,0 +1,5 @@
+/Users/Matthew/Projects/lohs_p1/lohs_p1/bin/Debug/lohs_p1.exe
+/Users/Matthew/Projects/lohs_p1/lohs_p1/bin/Debug/lohs_p1.pdb
+/Users/Matthew/Projects/lohs_p1/lohs_p1/obj/x86/Debug/lohs_p1.csproj.CoreCompileInputs.cache
+/Users/Matthew/Projects/lohs_p1/lohs_p1/obj/x86/Debug/lohs_p1.exe
+/Users/Matthew/Projects/lohs_p1/lohs_p1/obj/x86/Debug/lohs_p1.pdb

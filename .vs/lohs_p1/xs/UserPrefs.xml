@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0CBAA4B4-EC29-4C63-A32E-80E551AC838B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lohs_p1/p1.cs">
+    <Files>
+      <File FileName="lohs_p1/encryptWord.cs" Line="345" Column="10" />
+      <File FileName="lohs_p1/caesarShiftGame.cs" Line="354" Column="13" />
+      <File FileName="lohs_p1/p1.cs" Line="12" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.lohs__p1 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
